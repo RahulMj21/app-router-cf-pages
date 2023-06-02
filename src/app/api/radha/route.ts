@@ -4,7 +4,7 @@ export const runtime = "edge";
 
 const handler = async () => {
     return NextResponse.json(
-        { status: "OK", message: "Radha Radha" },
+        { status: "OK", message: "Radha Radha ❣️ Shyam Shyam" },
         { status: 200 }
     );
 };
